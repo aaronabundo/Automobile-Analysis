@@ -1,0 +1,14 @@
+Hi all, 
+
+Explore the data in the attached file to perform exploratory data analysis (EDA) 
+The following are some of the best practices to begin with 
+
+1)Univariate Analysis : Analysis of every single column (measures of central tendency and dispersion) for the numerical columns and appropriate analysis of categorical columns. Present your analysis with suitable graphs and charts wherever applicable. 
+Treatment of missing values is not expected here. 
+
+2)Bi-Variate Analysis : Analysis of co-relation between 2 columns and presenting them using appropriate graphs and charts 
+
+3)Once you complete the activities in steps 1 and 2, use your analytical skills to ask interesting questions from the data and then provide the answers to those questions. All this while, questions were provided to you along with the data and you were finding the answers. In this case study you are expected to first identify potential business questions and then come up with answers which can be presented using graphs, charts and dashboards in Tableau. 
+
+
+Note : You may use a combination of Python and Tableau to solve this case study. 

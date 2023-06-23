@@ -1,0 +1,4 @@
+Work:
+
+1. Write code to see the first few rows of every column.
+2. Inspecting data (strings but has numerical data - clean then convert to numeric float/integer)
